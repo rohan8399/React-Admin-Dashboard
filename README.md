@@ -14,7 +14,8 @@ This is a React-based dashboard application designed to provide a comprehensive 
 
 ## Screenshot
 
-![Dashboard Screenshot](./path/to/Screenshot%202024-05-29%20at%2011.32.43%20AM.png)
+<img width="1470" alt="Screenshot 2024-05-29 at 11 32 43 AM" src="https://github.com/rohan8399/React-Admin-Dashboard/assets/127540229/a1a39602-e207-43b2-ab76-a954980c51ab">
+
 
 ## Getting Started
 
