@@ -35,10 +35,10 @@ Ensure you have the following installed on your system:
    cd React-Admin-Dashboard
 
 2. **Install Dependencies:**:
-
+   ```bash
    npm install
 
 3. **Running the App:**:
-
+   ```bash
    npm start
 
